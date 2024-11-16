@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "title": "Harry Potter y el Prisionero de Azkaban",
+            // type 0: movie, type 1: serie
+            "type": 0,
+            "language": 0,
+            "duration": 143,
+            "year": 2004,
+            "genders": [ "Aventura", "Fantasía" ],
+            "size": { "value": 1.1, "unit": "GB" },
+            "synopsis": "Cuando Harry Potter y sus amigos vuelven a Hogwarts para cursar su tercer año de estudios, se ven involucrados en un misterio: de la prisión para magos de Azkaban se ha fugado Sirius Black, un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter. El joven aprendiz de mago contribuyó en gran medida a la condena de Sirius, por lo que hay razones para temer por su vida.",
+            "links": [
+                {
+                    // 0: download
+                    "type": 0,
+                    "text": "Calidad HD",
+                    "url": "https://cuty.io/1DDWJSS"
+                },
+                {
+                    // type 1: online
+                    "type": 1,
+                    "url": "https://d0000d.com/e/pkhw4xd9szf"
+                }
+            ]
+        }
+    ]
+}
